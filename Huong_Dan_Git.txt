@@ -1,0 +1,22 @@
+Mục tiêu công việc:
+1. nick github
+2. download software git scm
+3. tạo project (index.html)
+4. thực hành lệnh git
+ - cho git theo dõi: git init
+ - xem tình trạng của local repo: git status
+ - add các sự thay đổi: git add . (index.html, *)
+ - hình thành một version: git commit -m "add file index.html"	
+ - who you are?
+	- git config -g user.name "Kim Oanh"
+	- git config -g user.email "ko@gmail.com"
+	- git commit -m "add file index.html"	
+ - tạo repository trên github.com--> xem lệnh hướng dẫn
+	(kết nối giữa local repo và remote repo github.com)
+ - master-->main: git branch -M main
+ - git remote add origin https://github.com/nguyentrongtiencntt/web_t3-4_6.git
+ - git push -u origin main -->login github
+
+	  
+
+
